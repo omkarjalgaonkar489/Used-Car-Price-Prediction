@@ -1,0 +1,917 @@
+,name,company,year,Price,kms_driven,fuel_type,transmission
+0,Mahindra Jeep CL550,Mahindra,2006,525000,40,Diesel,Automatic
+1,Hyundai Grand i10,Hyundai,2014,425000,28000,Petrol,Automatic
+2,Hyundai Eon,Hyundai,2013,290000,25000,Petrol,Automatic
+3,Maruti Suzuki Alto,Maruti,2015,350000,60000,Petrol,Automatic
+4,Maruti Suzuki Stingray,Maruti,2015,415000,30000,Petrol,Automatic
+5,Mahindra Scorpio SLE,Mahindra,2015,420000,48660,Diesel,Automatic
+6,Mahindra Jeep CL550,Mahindra,2006,525000,40,Diesel,Automatic
+7,Audi Q7,Audi,2014,600000,16934,Diesel,Automatic
+8,Maruti Suzuki Alto,Maruti,2014,260000,35550,Petrol,Automatic
+9,Mahindra Scorpio S10,Mahindra,2016,410000,39522,Diesel,Automatic
+10,Hyundai i20 Sportz,Hyundai,2012,200000,55000,Petrol,Automatic
+11,Hyundai i20 Sportz,Hyundai,2012,200000,55000,Petrol,Automatic
+12,Maruti Suzuki Vitara,Maruti,2016,390000,15975,Diesel,Automatic
+13,Mahindra Bolero DI,Mahindra,2017,280000,23452,Diesel,Automatic
+14,Mahindra Scorpio S10,Mahindra,2015,350000,48508,Diesel,Automatic
+15,Maruti Suzuki Wagon,Maruti,2013,205000,39000,Petrol,Automatic
+16,Toyota Innova 2.0,Toyota,2012,750000,82000,Diesel,Automatic
+17,Skoda Yeti Ambition,Skoda,2012,548000,68000,Diesel,Automatic
+18,Renault Duster 110,Renault,2012,601000,38000,Diesel,Automatic
+19,Honda City 1.5,Honda,2011,380000,33000,Petrol,Automatic
+20,Maruti Suzuki Dzire,Maruti,2013,449999,46000,Diesel,Automatic
+21,Honda Amaze 1.5,Honda,2015,445000,36000,Diesel,Automatic
+22,Datsun Redi GO,Datsun,2017,335000,16000,Petrol,Automatic
+23,Mitsubishi Pajero Sport,Mitsubishi,2015,1575000,47000,Diesel,Automatic
+24,Maruti Suzuki Swift,Maruti,2014,485000,35522,Diesel,Automatic
+25,Maruti Suzuki Swift,Maruti,2017,280000,15487,Petrol,Automatic
+26,Maruti Suzuki Wagon,Maruti,2013,205000,39000,Petrol,Automatic
+27,Maruti Suzuki Swift,Maruti,2017,320000,30874,Petrol,Automatic
+28,Maruti Suzuki Wagon,Maruti,2013,185000,29685,Petrol,Automatic
+29,Hyundai Eon,Hyundai,2013,290000,25000,Petrol,Automatic
+30,Ford EcoSport Ambiente,Ford,2016,930000,24530,Diesel,Automatic
+31,Mahindra Scorpio SLE,Mahindra,2012,670000,19000,Diesel,Automatic
+32,Skoda Fabia Classic,Skoda,2010,282000,60000,Petrol,Automatic
+33,Renault Duster 110PS,Renault,2012,601000,35000,Diesel,Automatic
+34,Mini Cooper S,Mini,2013,1991111,13000,Petrol,Automatic
+35,Skoda Fabia 1.2L,Skoda,2011,259500,38200,Diesel,Automatic
+36,Honda Amaze,Honda,2015,444999,22000,Petrol,Automatic
+37,Mini Cooper S,Mini,2013,1991111,13500,Petrol,Automatic
+38,Mahindra Scorpio VLX,Mahindra,2014,799000,50000,Diesel,Automatic
+39,Ford EcoSport,Ford,2017,589999,39000,Petrol,Automatic
+40,Hyundai i20 Magna,Hyundai,2009,295000,32000,Petrol,Automatic
+41,Hyundai Verna Transform,Hyundai,2008,260000,45000,Petrol,Automatic
+42,Honda City 1.5,Honda,2005,190000,50000,Petrol,Automatic
+43,Skoda Fabia 1.2L,Skoda,2011,255000,45863,Diesel,Automatic
+44,Maruti Suzuki A,Maruti,2011,289500,12500,Petrol,Automatic
+45,Ford Figo Diesel,Ford,2012,310000,35000,Diesel,Automatic
+46,Chevrolet Beat LT,Chevrolet,2012,235000,45000,Diesel,Automatic
+47,Mahindra XUV500 W8,Mahindra,2013,801000,38000,Diesel,Automatic
+48,Hyundai Verna Fluidic,Hyundai,2015,625000,35000,Diesel,Automatic
+49,Maruti Suzuki Ertiga,Maruti,2016,735000,29000,Petrol,Automatic
+50,Maruti Suzuki Ertiga,Maruti,2016,675000,29000,Petrol,Automatic
+51,Maruti Suzuki Alto,Maruti,2012,255000,14000,Petrol,Automatic
+52,Honda Amaze 1.2,Honda,2014,425000,42000,Petrol,Automatic
+53,Ford Figo Diesel,Ford,2014,295000,50000,Diesel,Automatic
+54,Maruti Suzuki Ertiga,Maruti,2014,669999,45000,Petrol,Automatic
+55,Maruti Suzuki Ritz,Maruti,2014,399999,19000,Petrol,Automatic
+56,Maruti Suzuki Ritz,Maruti,2013,499999,33000,Diesel,Automatic
+57,Maruti Suzuki Dzire,Maruti,2015,550000,104000,Diesel,Automatic
+58,Hyundai i20 Sportz,Hyundai,2011,450000,33333,Diesel,Automatic
+59,Maruti Suzuki Alto,Maruti,2017,450000,5600,Petrol,Automatic
+60,Maruti Suzuki Swift,Maruti,2007,225000,70000,Petrol,Automatic
+61,Honda Amaze 1.5,Honda,2013,399000,45000,Diesel,Automatic
+62,Chevrolet Beat,Chevrolet,2015,250000,30000,Petrol,Automatic
+63,Honda City 1.5,Honda,2010,385000,35000,Petrol,Automatic
+64,Hyundai i20 Asta,Hyundai,2009,310000,65480,Petrol,Automatic
+65,Tata Indica V2,Tata,2006,190000,20000,Petrol,Automatic
+66,Hindustan Motors Ambassador,Hindustan,2000,170000,200000,Diesel,Automatic
+67,Toyota Corolla Altis,Toyota,2012,449999,59000,Petrol,Automatic
+68,Volkswagen Jetta Highline,Volkswagen,2014,849999,46000,Diesel,Automatic
+69,Volkswagen Polo,Volkswagen,2014,374999,32000,Petrol,Automatic
+70,Renault Duster,Renault,2014,549999,50000,Diesel,Automatic
+71,Nissan Sunny,Nissan,2012,324999,45000,Petrol,Automatic
+72,Renault Kwid,Renault,2016,344999,11000,Petrol,Automatic
+73,Ford EcoSport,Ford,2017,589999,39000,Petrol,Automatic
+74,Mahindra Scorpio VLX,Mahindra,2011,599999,66000,Diesel,Automatic
+75,Chevrolet Spark LT,Chevrolet,2010,185000,45000,Petrol,Automatic
+76,Maruti Suzuki Swift,Maruti,2010,289500,38500,Diesel,Automatic
+77,Maruti Suzuki Swift,Maruti,2010,259500,43200,Diesel,Automatic
+78,Hyundai i20 Sportz,Hyundai,2014,470000,60000,Diesel,Automatic
+79,Chevrolet Beat LT,Chevrolet,2011,250000,40000,Diesel,Automatic
+80,Chevrolet Beat LT,Chevrolet,2012,198500,38000,Diesel,Automatic
+81,Tata Indigo CS,Tata,2011,185000,11400,Diesel,Automatic
+82,Honda City 1.5,Honda,2014,649000,39000,Petrol,Automatic
+83,Hyundai Eon Era,Hyundai,2013,285000,27000,Petrol,Automatic
+84,Mahindra XUV500,Mahindra,2014,799999,52000,Diesel,Automatic
+85,Ford Fiesta,Ford,2011,374999,55000,Diesel,Automatic
+86,Honda City,Honda,2015,699999,30000,Diesel,Automatic
+87,Honda City,Honda,2014,644999,45000,Diesel,Automatic
+88,Tata Indigo eCS,Tata,2016,420000,175430,Diesel,Automatic
+89,Fiat Petra ELX,Fiat,2008,175000,65000,Petrol,Automatic
+90,Mini Cooper S,Mini,2013,1991111,13000,Petrol,Automatic
+91,Maruti Suzuki Ciaz,Maruti,2016,800000,3350,Petrol,Automatic
+92,Honda City,Honda,2015,548999,54000,Petrol,Automatic
+93,Mahindra Scorpio SLE,Mahindra,2012,665000,62000,Diesel,Automatic
+94,Maruti Suzuki Alto,Maruti,2011,245000,41000,Petrol,Automatic
+95,Tata Nano Cx,Tata,2013,140000,2200,Petrol,Automatic
+96,Maruti Suzuki Wagon,Maruti,2009,235000,45000,Petrol,Automatic
+97,Tata Sumo Victa,Tata,2012,385000,65000,Diesel,Automatic
+98,Maruti Suzuki Wagon,Maruti,2010,245000,54870,Petrol,Automatic
+99,Volkswagen Passat Diesel,Volkswagen,2009,550000,97000,Diesel,Automatic
+100,Mahindra Quanto C8,Mahindra,2013,475000,20000,Diesel,Automatic
+101,Hyundai i20 Active,Hyundai,2015,600000,18000,Petrol,Automatic
+102,Mahindra Jeep MM,Mahindra,2019,490000,60,Diesel,Automatic
+103,Mahindra Bolero SLE,Mahindra,2013,430000,80200,Diesel,Automatic
+104,Maruti Suzuki SX4,Maruti,2012,365000,46000,Diesel,Automatic
+105,Maruti Suzuki Alto,Maruti,2015,319000,5000,Petrol,Automatic
+106,Toyota Etios,Toyota,2011,375000,36000,Diesel,Automatic
+107,Honda City ZX,Honda,2008,210000,45000,Petrol,Automatic
+108,Honda City VX,Honda,2016,619000,52000,Diesel,Automatic
+109,Mitsubishi Pajero Sport,Mitsubishi,2015,1575000,47000,Diesel,Automatic
+110,Mercedes Benz GLA,Mercedes,2015,2100000,20000,Diesel,Automatic
+111,Renault Kwid RXT,Renault,2017,440000,5000,Petrol,Automatic
+112,Mercedes Benz B,Mercedes,2014,1400000,31000,Petrol,Automatic
+113,Tata Indigo eCS,Tata,2016,420000,175430,Diesel,Automatic
+114,Honda Jazz VX,Honda,2016,550000,41000,Petrol,Automatic
+115,Honda Amaze,Honda,2013,384999,46000,Diesel,Automatic
+116,Honda City,Honda,2015,699999,39000,Diesel,Automatic
+117,Audi A4 1.8,Audi,2009,799000,47000,Petrol,Automatic
+118,Mahindra Scorpio S4,Mahindra,2015,955000,30000,Diesel,Automatic
+119,Mini Cooper S,Mini,2013,1991111,13000,Petrol,Automatic
+120,Chevrolet Tavera Neo,Chevrolet,2013,475000,55000,Diesel,Automatic
+121,Hyundai Eon Sportz,Hyundai,2012,278000,30000,Petrol,Automatic
+122,Maruti Suzuki Wagon,Maruti,2003,190000,45000,Petrol,Automatic
+123,Maruti Suzuki Eeco,Maruti,2015,355000,9300,Petrol,Automatic
+124,Hyundai i20 Asta,Hyundai,2012,429500,36200,Diesel,Automatic
+125,Maruti Suzuki Eeco,Maruti,2015,351111,55000,Petrol,Automatic
+126,Maruti Suzuki Esteem,Maruti,2007,169999,51000,Petrol,Automatic
+127,Maruti Suzuki Dzire,Maruti,2009,320000,46000,Petrol,Automatic
+128,Maruti Suzuki SX4,Maruti,2010,349999,36000,Petrol,Automatic
+129,Mini Cooper S,Mini,2013,1891111,13500,Petrol,Automatic
+130,Renault Duster 85,Renault,2013,589999,27000,Diesel,Automatic
+131,Renault Duster 85,Renault,2015,649999,19000,Diesel,Automatic
+132,Renault Kwid RXT,Renault,2018,425000,15000,Petrol,Automatic
+133,Renault Kwid 1.0,Renault,2018,449999,10000,Petrol,Automatic
+134,Renault Scala RxL,Renault,2014,449999,49000,Diesel,Automatic
+135,Maruti Suzuki Swift,Maruti,2011,325000,45000,Petrol,Automatic
+136,Tata Indigo eCS,Tata,2016,420000,175430,Diesel,Automatic
+137,Hyundai Fluidic Verna,Hyundai,2015,640000,38000,Diesel,Automatic
+138,Chevrolet Beat LS,Chevrolet,2010,180000,56000,Petrol,Automatic
+139,Fiat Petra ELX,Fiat,2008,175000,65000,Petrol,Automatic
+140,Skoda Fabia 1.2L,Skoda,2011,259500,38200,Diesel,Automatic
+141,Hyundai Accent GLX,Hyundai,2006,180000,56000,Petrol,Automatic
+142,Mini Cooper S,Mini,2013,1891111,13000,Petrol,Automatic
+143,Tata Indica V2,Tata,2008,250000,11000,Petrol,Automatic
+144,Tata Indigo CS,Tata,2009,172500,46000,Diesel,Automatic
+145,Mahindra Scorpio VLX,Mahindra,2004,330000,160000,Diesel,Automatic
+146,Honda Accord,Honda,2009,275000,58559,Petrol,Automatic
+147,Chevrolet Tavera Neo,Chevrolet,2013,475000,55000,Diesel,Automatic
+148,Maruti Suzuki Ertiga,Maruti,2015,624999,50000,Diesel,Automatic
+149,Maruti Suzuki Dzire,Maruti,2012,399999,40000,Petrol,Automatic
+150,Mahindra Scorpio 2.6,Mahindra,2007,320000,170000,Diesel,Automatic
+151,Honda City,Honda,2015,744999,39000,Petrol,Automatic
+152,Toyota Corolla Altis,Toyota,2009,299999,65000,Petrol,Automatic
+153,Skoda Laura,Skoda,2012,449999,44000,Diesel,Automatic
+154,Maruti Suzuki Ertiga,Maruti,2018,899999,9000,Diesel,Automatic
+155,Mahindra XUV500,Mahindra,2014,749999,47000,Diesel,Automatic
+156,Maruti Suzuki Vitara,Maruti,2016,789999,29000,Diesel,Automatic
+157,Mahindra Scorpio,Mahindra,2015,1044999,45000,Diesel,Automatic
+158,Mahindra XUV500,Mahindra,2013,789999,80000,Diesel,Automatic
+159,Skoda Laura,Skoda,2013,474999,50000,Diesel,Automatic
+160,Hyundai Elite i20,Hyundai,2016,649999,9000,Petrol,Automatic
+161,Chevrolet Sail UVA,Chevrolet,2013,310000,60000,Petrol,Automatic
+162,Hyundai Verna Fluidic,Hyundai,2013,501000,45000,Diesel,Automatic
+163,Hyundai Elantra SX,Hyundai,2013,700000,20000,Petrol,Automatic
+164,Mahindra KUV100 K8,Mahindra,2016,500000,20000,Diesel,Automatic
+165,Mahindra Quanto C8,Mahindra,2013,475000,20000,Diesel,Automatic
+166,Hyundai i20 Active,Hyundai,2015,600000,18000,Petrol,Automatic
+167,Hyundai Grand i10,Hyundai,2017,624999,6821,Petrol,Automatic
+168,Hyundai Eon,Hyundai,2014,274999,14000,Petrol,Automatic
+169,Hyundai i20 Active,Hyundai,2015,674999,35000,Diesel,Automatic
+170,Toyota Etios Liva,Toyota,2011,339999,41000,Petrol,Automatic
+171,Hyundai Verna,Hyundai,2014,589999,44000,Diesel,Automatic
+172,Toyota Fortuner,Toyota,2011,1174999,52000,Diesel,Automatic
+173,Mahindra Bolero Power,Mahindra,2018,799000,1800,Diesel,Automatic
+174,Mahindra XUV500,Mahindra,2015,1100000,15000,Diesel,Automatic
+175,Chevrolet Spark LT,Chevrolet,2009,210000,44000,Petrol,Automatic
+176,Renault Duster 110PS,Renault,2012,601000,35000,Diesel,Automatic
+177,Tata Indigo eCS,Tata,2014,150000,40000,Diesel,Automatic
+178,Mahindra Bolero SLE,Mahindra,2013,430000,80200,Diesel,Automatic
+179,Skoda Rapid Elegance,Skoda,2013,440000,48000,Diesel,Automatic
+180,Maruti Suzuki Alto,Maruti,2015,365000,12000,Petrol,Automatic
+181,Maruti Suzuki Zen,Maruti,2003,185000,69900,Petrol,Automatic
+182,Hyundai i10 Magna,Hyundai,2011,275000,45000,Petrol,Automatic
+183,Maruti Suzuki Swift,Maruti,2016,450000,166000,Diesel,Automatic
+184,Mahindra Jeep CL550,Mahindra,2018,485000,588,Diesel,Automatic
+185,Chevrolet Beat Diesel,Chevrolet,2017,250000,62000,Diesel,Automatic
+186,Toyota Innova 2.5,Toyota,2012,870000,0,Diesel,Automatic
+187,Maruti Suzuki Maruti,Maruti,1995,130000,55000,Petrol,Automatic
+188,Volkswagen Polo,Volkswagen,2015,430000,38000,Diesel,Automatic
+189,Hyundai Elite i20,Hyundai,2015,550000,20000,Diesel,Automatic
+190,Tata Indigo LX,Tata,2016,230000,104000,Diesel,Automatic
+191,Mercedes Benz C,Mercedes,2002,499000,41000,Petrol,Automatic
+192,Hyundai Santro Xing,Hyundai,2006,175000,46000,Petrol,Automatic
+193,Hyundai Sonata Transform,Hyundai,2017,290000,36469,Diesel,Automatic
+194,Volkswagen Vento Konekt,Volkswagen,2011,345000,65000,Diesel,Automatic
+195,Maruti Suzuki Alto,Maruti,2011,255000,32000,Petrol,Automatic
+196,Hyundai Grand i10,Hyundai,2017,550000,15141,Petrol,Automatic
+197,Mahindra Scorpio W,Mahindra,2012,265000,65000,Diesel,Automatic
+198,Maruti Suzuki Alto,Maruti,2014,370000,22000,Petrol,Automatic
+199,Mahindra XUV500 W8,Mahindra,2012,660000,100000,Diesel,Automatic
+200,Hyundai i20 Magna,Hyundai,2013,410000,35000,Petrol,Automatic
+201,Hyundai Grand i10,Hyundai,2014,440000,35000,Petrol,Automatic
+202,Mahindra TUV300 T4,Mahindra,2017,710000,68000,Diesel,Automatic
+203,Mahindra TUV300 T8,Mahindra,2018,1100000,4500,Diesel,Automatic
+204,Nissan X Trail,Nissan,2019,1200000,300,Diesel,Automatic
+205,Ford Ikon 1.3,Ford,2001,145000,65000,Petrol,Automatic
+206,Tata Manza ELAN,Tata,2010,255555,111111,Petrol,Automatic
+207,Chevrolet Beat LS,Chevrolet,2016,310000,22000,Diesel,Automatic
+208,Tata Indigo LS,Tata,2016,225000,70000,Diesel,Automatic
+209,Volkswagen Vento Highline,Volkswagen,2015,650000,34000,Diesel,Automatic
+210,Honda Amaze 1.5,Honda,2016,340000,160000,Diesel,Automatic
+211,BMW 5 Series,BMW,2011,1299000,49000,Diesel,Automatic
+212,Audi Q3 2.0,Audi,2013,1499000,37000,Diesel,Automatic
+213,Ford Figo Duratorq,Ford,2012,350000,99000,Diesel,Automatic
+214,Mahindra Logan Diesel,Mahindra,2009,230000,66000,Petrol,Automatic
+215,Mahindra TUV300 T4,Mahindra,2016,640000,35000,Diesel,Automatic
+216,Hyundai Elite i20,Hyundai,2015,505000,28000,Petrol,Automatic
+217,Honda City SV,Honda,2017,760000,4000,Petrol,Automatic
+218,Ford Figo Petrol,Ford,2011,275000,75000,Petrol,Automatic
+219,Honda City,Honda,2017,850000,3000,Petrol,Automatic
+220,Maruti Suzuki Versa,Maruti,2004,190000,50000,Petrol,Automatic
+221,Mitsubishi Pajero Sport,Mitsubishi,2015,1540000,43222,Petrol,Automatic
+222,Toyota Corolla H2,Toyota,2003,250000,100000,Petrol,Automatic
+223,Tata Indigo CS,Tata,2015,223000,100000,Diesel,Automatic
+224,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,Automatic
+225,Honda City,Honda,2015,599999,55000,Petrol,Automatic
+226,Maruti Suzuki Baleno,Maruti,2016,598000,22000,Petrol,Automatic
+227,Maruti Suzuki Dzire,Maruti,2017,588000,80000,Diesel,Automatic
+228,Toyota Corolla Altis,Toyota,2010,320000,58000,Petrol,Automatic
+229,Toyota Fortuner 3.0,Toyota,2015,1525000,120000,Diesel,Automatic
+230,Tata Tigor Revotron,Tata,2019,750000,100,Diesel,Automatic
+231,Maruti Suzuki Ertiga,Maruti,2015,650000,75000,Petrol,Automatic
+232,Honda Mobilio S,Honda,2014,499000,44000,Diesel,Automatic
+233,Maruti Suzuki Vitara,Maruti,2017,825000,36000,Diesel,Automatic
+234,Maruti Suzuki Swift,Maruti,2007,230000,62000,Petrol,Automatic
+235,Maruti Suzuki Omni,Maruti,2014,290000,6020,Petrol,Automatic
+236,Tata Indica,Tata,2005,180000,42000,Petrol,Automatic
+237,Maruti Suzuki Zen,Maruti,2010,249000,35000,Petrol,Automatic
+238,Maruti Suzuki Wagon,Maruti,2007,220000,7000,Petrol,Automatic
+239,Maruti Suzuki Zen,Maruti,2008,235000,23000,Petrol,Automatic
+240,Maruti Suzuki Alto,Maruti,2010,199000,22134,Petrol,Automatic
+241,Tata Nano Lx,Tata,2010,152000,9000,Petrol,Automatic
+242,Honda City 1.5,Honda,2014,599000,22000,Petrol,Automatic
+243,Maruti Suzuki Ritz,Maruti,2010,249000,40000,Petrol,Automatic
+244,Hyundai Eon D,Hyundai,2016,220000,87000,Petrol,Automatic
+245,Maruti Suzuki Wagon,Maruti,2017,475000,23000,Petrol,Automatic
+246,Maruti Suzuki Estilo,Maruti,2013,280000,65000,Petrol,Automatic
+247,Maruti Suzuki Eeco,Maruti,2015,378000,39000,Petrol,Automatic
+248,Hyundai Creta 1.6,Hyundai,2016,1000000,8000,Petrol,Automatic
+249,Maruti Suzuki Ertiga,Maruti,2012,580000,51000,Diesel,Automatic
+250,Maruti Suzuki Maruti,Maruti,2001,140000,75000,Petrol,Automatic
+251,Hyundai Grand i10,Hyundai,2015,440000,53000,Petrol,Automatic
+252,Ford Fiesta SXi,Ford,2009,350000,56400,Petrol,Automatic
+253,Hyundai Verna Fluidic,Hyundai,2012,450000,10000,Diesel,Automatic
+254,Maruti Suzuki Estilo,Maruti,2007,215000,36000,Petrol,Automatic
+255,Maruti Suzuki Wagon,Maruti,2003,230000,133000,Petrol,Automatic
+256,Maruti Suzuki Wagon,Maruti,2009,260000,35000,Petrol,Automatic
+257,Maruti Suzuki Baleno,Maruti,2016,525000,40000,Petrol,Automatic
+258,Maruti Suzuki Swift,Maruti,2009,250000,45000,Petrol,Automatic
+259,Hyundai Santro,Hyundai,2000,151999,88000,Petrol,Automatic
+260,Chevrolet Beat PS,Chevrolet,2012,315000,65422,Diesel,Automatic
+261,Maruti Suzuki Dzire,Maruti,2013,480000,35000,Petrol,Automatic
+262,Tata Indica V2,Tata,2005,135000,150000,Diesel,Automatic
+263,Hyundai i20 Asta,Hyundai,2010,400000,10750,Petrol,Automatic
+264,Tata Nano,Tata,2013,60000,6800,Petrol,Manual
+265,Hyundai Verna Fluidic,Hyundai,2015,530000,73000,Diesel,Automatic
+266,Maruti Suzuki Swift,Maruti,2011,240000,65000,Diesel,Automatic
+267,Mahindra XUV500 W10,Mahindra,2018,1299000,40000,Diesel,Automatic
+268,Hyundai Accent GLE,Hyundai,2006,190000,55000,Petrol,Automatic
+269,Chevrolet Spark 1.0,Chevrolet,2011,200000,27000,Petrol,Automatic
+270,Toyota Etios Liva,Toyota,2012,480000,20000,Diesel,Automatic
+271,Chevrolet Enjoy,Chevrolet,2014,590000,30201,Diesel,Automatic
+272,BMW 5 Series,BMW,2009,750000,37518,Petrol,Automatic
+273,Mahindra Jeep MM,Mahindra,2004,524000,383,Diesel,Automatic
+274,Chevrolet Cruze LTZ,Chevrolet,2011,450000,35000,Diesel,Automatic
+275,Maruti Suzuki Ertiga,Maruti,2013,585000,52500,Diesel,Automatic
+276,Maruti Suzuki Omni,Maruti,2012,260000,14000,Petrol,Automatic
+277,Tata Zest Quadrajet,Tata,2017,280000,90000,Diesel,Automatic
+278,Tata Indigo CS,Tata,2016,250000,104000,Diesel,Automatic
+279,Tata Indigo eCS,Tata,2014,195000,195000,Diesel,Automatic
+280,Tata Indigo eCS,Tata,2016,330000,104000,Diesel,Automatic
+281,Hyundai Eon Magna,Hyundai,2013,285000,23000,Petrol,Automatic
+282,Maruti Suzuki Alto,Maruti,2009,190000,62000,Petrol,Automatic
+283,Maruti Suzuki Wagon,Maruti,2010,325000,40000,Petrol,Automatic
+284,Maruti Suzuki Ertiga,Maruti,2012,489700,39000,Diesel,Automatic
+285,Maruti Suzuki Alto,Maruti,2017,460000,9400,Petrol,Automatic
+286,Hyundai i10 Magna,Hyundai,2009,270000,75000,Petrol,Automatic
+287,Tata Zest XE,Tata,2017,480000,70000,Diesel,Automatic
+288,Toyota Corolla Altis,Toyota,2010,285000,55000,Petrol,Automatic
+289,Renault Kwid 1.0,Renault,2018,390000,2137,Petrol,Automatic
+290,Tata Venture EX,Tata,2013,200000,30000,Diesel,Automatic
+291,Maruti Suzuki Omni,Maruti,2012,220000,160000,LPG,Automatic
+292,Tata Sumo Gold,Tata,2012,310000,75000,Diesel,Automatic
+293,Hyundai Verna 1.6,Hyundai,2018,955000,42000,Diesel,Automatic
+294,Mahindra Scorpio 2.6,Mahindra,2007,360000,56000,Diesel,Automatic
+295,Maruti Suzuki Swift,Maruti,2011,355000,64000,Petrol,Automatic
+296,Hyundai Grand i10,Hyundai,2014,440000,25000,Petrol,Automatic
+297,Ford Ikon 1.6,Ford,2003,160000,50000,Petrol,Automatic
+298,Nissan Sunny XL,Nissan,2011,330000,52000,Petrol,Automatic
+299,Maruti Suzuki Alto,Maruti,2017,370000,21000,Petrol,Automatic
+300,Maruti Suzuki Swift,Maruti,2012,380000,48006,Diesel,Automatic
+301,Hyundai Elite i20,Hyundai,2015,600000,22000,Petrol,Automatic
+302,Volkswagen Polo Trendline,Volkswagen,2015,450000,25000,Diesel,Automatic
+303,Mahindra TUV300 T4,Mahindra,2016,640000,29500,Diesel,Automatic
+304,Hyundai Santro Xing,Hyundai,2014,279000,57000,Petrol,Automatic
+305,Maruti Suzuki Ciaz,Maruti,2016,750000,50000,Petrol,Automatic
+306,Hyundai Elantra 1.8,Hyundai,2012,500000,65000,Petrol,Automatic
+307,Maruti Suzuki Zen,Maruti,2008,125000,46000,Petrol,Automatic
+308,Hyundai Grand i10,Hyundai,2016,380000,27000,Petrol,Automatic
+309,Ford EcoSport Trend,Ford,2014,465000,47000,Petrol,Automatic
+310,Chevrolet Beat Diesel,Chevrolet,2016,179999,19336,Diesel,Automatic
+311,Jaguar XF 2.2,Jaguar,2013,2190000,29000,Diesel,Automatic
+312,BMW 3 Series,BMW,2011,1075000,35000,Diesel,Automatic
+313,BMW X1 sDrive20d,BMW,2012,1025000,41000,Diesel,Automatic
+314,Maruti Suzuki Ertiga,Maruti,2013,475000,48000,Diesel,Automatic
+315,Honda City SV,Honda,2014,475000,34000,Diesel,Automatic
+316,Honda City 1.5,Honda,2005,120000,68000,Petrol,Automatic
+317,Mahindra KUV100,Mahindra,2017,360000,35000,Diesel,Automatic
+318,Mahindra XUV500 W8,Mahindra,2015,900000,28600,Diesel,Automatic
+319,Tata Sumo Gold,Tata,2014,275000,116000,Diesel,Automatic
+320,Mahindra Scorpio 2.6,Mahindra,2004,175000,58000,Diesel,Automatic
+321,Mitsubishi Pajero Sport,Mitsubishi,2015,1490000,42590,Diesel,Automatic
+322,Volkswagen Jetta Comfortline,Volkswagen,2009,450000,54500,Diesel,Automatic
+323,Audi A4 2.0,Audi,2013,1510000,27000,Diesel,Automatic
+324,Toyota Corolla Altis,Toyota,2014,790000,29000,Petrol,Automatic
+325,Chevrolet Beat LT,Chevrolet,2012,135000,36000,Petrol,Automatic
+326,Datsun Redi GO,Datsun,2018,299999,7000,Petrol,Automatic
+327,Mahindra Scorpio SLX,Mahindra,2004,175000,60000,Diesel,Automatic
+328,Tata Indigo CS,Tata,2017,270000,50000,Diesel,Automatic
+329,Honda City ZX,Honda,2006,180000,50000,Petrol,Automatic
+330,Ford EcoSport Trend,Ford,2014,400000,16000,Petrol,Automatic
+331,Maruti Suzuki Omni,Maruti,2009,85000,56000,Petrol,Automatic
+332,Renault Duster RxL,Renault,2015,550000,36000,Petrol,Automatic
+333,Maruti Suzuki Baleno,Maruti,2018,690000,1000,Petrol,Automatic
+334,Tata Indigo CS,Tata,2016,110000,85000,Diesel,Automatic
+335,Mahindra Scorpio LX,Mahindra,2009,320000,95500,Diesel,Automatic
+336,Maruti Suzuki Wagon,Maruti,2014,130000,37458,Petrol,Automatic
+337,Audi A3 Cabriolet,Audi,2015,3100000,12516,Petrol,Automatic
+338,Maruti Suzuki Zen,Maruti,2009,125000,0,Petrol,Automatic
+339,Mahindra Scorpio S4,Mahindra,2015,865000,30000,Diesel,Automatic
+340,Mahindra Xylo D2,Mahindra,2011,390000,48000,Diesel,Automatic
+341,Chevrolet Beat LT,Chevrolet,2015,215000,90000,Diesel,Automatic
+342,Mahindra XUV500 W8,Mahindra,2015,899000,53000,Diesel,Automatic
+343,Maruti Suzuki Alto,Maruti,2013,240000,20000,Petrol,Automatic
+344,Maruti Suzuki Swift,Maruti,2014,260000,120000,Diesel,Automatic
+345,Hyundai Santro Xing,Hyundai,2007,115000,46000,Petrol,Automatic
+346,Mahindra Xylo D2,Mahindra,2011,390000,56000,Diesel,Automatic
+347,Tata Indica V2,Tata,2009,90000,30600,Diesel,Automatic
+348,Hyundai Grand i10,Hyundai,2017,424999,2550,Petrol,Automatic
+349,Honda City 1.5,Honda,2005,95000,41000,Petrol,Automatic
+350,Honda City 1.5,Honda,2005,115000,68000,Petrol,Automatic
+351,Maruti Suzuki Wagon,Maruti,2004,53000,69000,Petrol,Automatic
+352,Tata Indica eV2,Tata,2012,85000,55000,Diesel,Automatic
+353,Hyundai Eon Era,Hyundai,2014,200000,28400,Petrol,Automatic
+354,Maruti Suzuki Swift,Maruti,2015,425000,42000,Diesel,Automatic
+355,Hyundai Verna 1.6,Hyundai,2012,600000,29000,Diesel,Automatic
+356,Tata Tiago Revotron,Tata,2018,430000,3500,Petrol,Automatic
+357,Maruti Suzuki Zen,Maruti,2006,71000,32000,Petrol,Automatic
+358,Ford EcoSport Titanium,Ford,2014,590000,34000,Diesel,Automatic
+359,Ford Fusion 1.4,Ford,2007,125000,85455,Diesel,Automatic
+360,Hyundai Santro,Hyundai,2002,60000,47000,Petrol,Automatic
+361,Ford Ikon 1.3,Ford,2008,95000,46000,Petrol,Automatic
+362,Tata Indica V2,Tata,2012,115000,64000,Diesel,Automatic
+363,Hyundai Santro Xing,Hyundai,2007,55000,65000,Petrol,Automatic
+364,Hyundai Grand i10,Hyundai,2014,320000,41000,Petrol,Automatic
+365,Toyota Corolla,Toyota,2006,160000,40000,Petrol,Automatic
+366,Tata Sumo Grande,Tata,2010,130000,90000,Diesel,Automatic
+367,Volkswagen Polo Highline1.2L,Volkswagen,2013,380000,27000,Petrol,Automatic
+368,Tata Tiago Revotron,Tata,2017,400000,31000,Petrol,Automatic
+369,Maruti Suzuki Swift,Maruti,2009,120000,90000,Diesel,Automatic
+370,Chevrolet Beat LS,Chevrolet,2014,189000,31000,Diesel,Automatic
+371,Mahindra Xylo E8,Mahindra,2011,365000,43000,Diesel,Automatic
+372,Tata Nano,Tata,2013,60000,7000,Petrol,Automatic
+373,Hyundai i10 Magna,Hyundai,2009,400000,33000,Petrol,Automatic
+374,Volkswagen Polo,Volkswagen,2013,299999,48000,Diesel,Automatic
+375,Tata Bolt XM,Tata,2015,600000,15000,Petrol,Automatic
+376,Maruti Suzuki Alto,Maruti,2005,100000,40000,Petrol,Automatic
+377,Maruti Suzuki Ritz,Maruti,2010,150000,38000,Diesel,Automatic
+378,Maruti Suzuki Dzire,Maruti,2009,210000,42000,Petrol,Automatic
+379,Hyundai i20 Asta,Hyundai,2014,425000,31000,Petrol,Automatic
+380,Tata Indica V2,Tata,2005,60000,80000,Diesel,Automatic
+381,Toyota Innova 2.5,Toyota,2012,750000,75000,Diesel,Automatic
+382,Hyundai i20 Magna,Hyundai,2011,230000,47000,Petrol,Automatic
+383,Mahindra KUV100,Mahindra,2016,380000,26500,Petrol,Automatic
+384,Datsun Go Plus,Datsun,2016,285000,13900,Petrol,Automatic
+385,Tata Indica V2,Tata,2005,39999,80000,Diesel,Automatic
+386,Maruti Suzuki Wagon,Maruti,2016,395000,20000,Petrol,Automatic
+387,Maruti Suzuki Alto,Maruti,2019,400000,1500,Petrol,Automatic
+388,Maruti Suzuki Alto,Maruti,2019,425000,1625,Petrol,Automatic
+389,Volkswagen Polo Highline1.2L,Volkswagen,2017,525000,45000,Petrol,Automatic
+390,Maruti Suzuki 800,Maruti,2000,30000,33400,Petrol,Automatic
+391,Chevrolet Sail 1.2,Chevrolet,2013,300000,28000,Petrol,Automatic
+392,Hyundai Santro AE,Hyundai,2003,60000,70000,Petrol,Automatic
+393,Hyundai Eon,Hyundai,2018,260000,25000,Petrol,Automatic
+394,Hyundai Getz Prime,Hyundai,2009,115000,20000,Petrol,Automatic
+395,Hyundai Santro Xing,Hyundai,2004,45000,137495,Petrol,Automatic
+396,Honda City 1.5,Honda,2009,270000,55000,Petrol,Automatic
+397,Mahindra Quanto C4,Mahindra,2013,325000,63000,Diesel,Automatic
+398,Maruti Suzuki Swift,Maruti,2016,350000,146000,Diesel,Automatic
+399,Hyundai i20 Select,Hyundai,2011,290000,40000,Petrol,Automatic
+400,Maruti Suzuki Dzire,Maruti,2016,325000,150000,Diesel,Automatic
+401,Honda City VX,Honda,2016,860000,95000,Petrol,Automatic
+402,Hyundai Getz,Hyundai,2006,125000,80000,Petrol,Automatic
+403,Maruti Suzuki Alto,Maruti,2005,95000,65000,Petrol,Automatic
+404,Skoda Fabia,Skoda,2009,110000,45000,Petrol,Automatic
+405,Maruti Suzuki Ritz,Maruti,2011,270000,50000,Petrol,Automatic
+406,Tata Indica V2,Tata,2009,110000,30000,Diesel,Automatic
+407,Mahindra Quanto C8,Mahindra,2013,390000,40000,Diesel,Automatic
+408,Renault Kwid CLIMBER,Renault,2021,485000,19604,Petrol,Automatic
+409,Maruti Baleno,Maruti,2016,637000,19980,Petrol,Automatic
+410,Tata Nexon,Tata,2021,1004000,48192,Diesel,Automatic
+411,Jeep Compass,Jeep,2017,1099000,30044,Diesel,Automatic
+412,Hyundai Tuscon,Hyundai ,2018,1864000,11865,Diesel,Automatic
+413,Hyundai GRAND I10,Hyundai ,2020,687000,33479,Petrol,Automatic
+414,Skoda Rapid,Skoda,2020,980000,27997,Petrol,Automatic
+415,Renault Kiger RXZ,Renault,2021,820000,19077,Petrol,Automatic
+416,Datsun Redi Go,Datsun,2019,397000,6380,Petrol,Automatic
+417,Volkswagen Vento,Volkswagen,2021,1238000,25578,Petrol,Automatic
+418,Nissan MAGNITE,Nissan,2022,1086000,2716,Petrol,Automatic
+419,MG ASTOR SAVVY,MG,2022,1809000,3751,Petrol,Automatic
+420,Hyundai ALCAZAR,Hyundai ,2022,2131000,9699,Petrol,Automatic
+421,Maruti XL6,Maruti,2021,1072000,56623,Petrol,Automatic
+422,Maruti IGNIS,Maruti,2021,797000,15124,Petrol,Automatic
+423,Tata Safari,Tata,2022,2384000,6906,Diesel,Automatic
+424,Land Rover Discovery,Land Rover,2019,4990000,32000,Diesel,Automatic
+425,Mercedes-Benz C-Class Prime,Mercedes,2020,4175000,18000,Petrol,Automatic
+426,Tata Nexon EV,Tata,2021,1525000,20000,Electric,Automatic
+427,Tata Nexon EV,Tata,2022,1499000,7900,Electric,Automatic
+428,Tata Tigor EV,Tata,2019,695000,18500,Electric,Automatic
+429,MG ZS EV,MG,2021,2025000,16000,Electric,Automatic
+430,Tata Tigor EV,Tata,2021,1085000,9000,Electric,Automatic
+431,MG ZS EV,MG,2021,2250000,30045,Electric,Automatic
+432,Honda City VX,Honda,2019,986000,26555,Petrol,Automatic
+433,Volvo XC40,Volvo,2020,3975000,16500,Petrol,Automatic
+434,Volkswagen Vento,Volkswagen,2021,1325000,18449,Petrol,Automatic
+435,Skoda Kodiaq 2.0,Skoda,2020,3299000,47000,Diesel,Automatic
+436,Mahindra XUV700,Mahindra,2022,2425000,15000,Petrol,Automatic
+437,Audi Q2 Premium,Audi,2021,3899000,9700,Petrol,Automatic
+438,Skoda Superb Laurin,Skoda,2022,3850000,8700,Petrol,Automatic
+439,Toyota Glanza,Toyota,2020,880000,353888,Petrol,Automatic
+440,Mahindra Thar,Mahindra,2022,1799000,9089,Petrol,Automatic
+441,Ford Endeavour Titanium,Ford,2019,3275000,44125,Diesel,Automatic
+442,Toyota Corolla Altis,Toyota,2019,1490000,16000,Petrol,Automatic
+443,Toyota Innova Crysta,Toyota,2019,2195000,70000,Diesel,Automatic
+444,Volkswagen Taigun,Volkswagen,2022,1699000,9000,Petrol,Automatic
+445,Mahindra Thar,Mahindra,2021,1650000,2800,Petrol,Automatic
+446,Renault KWID,Renault,2020,510000,5046,Petrol,Automatic
+447,Hyundai Santro Sportz,Hyundai,2019,502000,21648,Petrol,Automatic
+448,Maruti Ertiga ZXI,Maruti,2019,1095000,15000,Petrol,Automatic
+449,Tata New Safari,Tata,2021,2250000,26000,Diesel,Automatic
+450,Hyundai Creta,Hyundai,2019,1225000,60000,Petrol,Automatic
+451,Honda Accord Hybrid,Honda,2019,3300000,1600,Petrol,Automatic
+452,Kia Carnival Limousine,Kia,2020,3490000,30000,Diesel,Automatic
+453,Toyota Urban cruiser,Toyota,2022,1096000,15000,Petrol,Automatic
+454,Skoda Octavia Style,Skoda,2022,2995000,2984,Petrol,Automatic
+455,Toyota Yaris,Toyota,2021,1116000,8047,Petrol,Automatic
+456,MG Hector Sharp,MG,2019,1550000,35000,Petrol,Automatic
+457,Maruti XL6,Maruti,2021,1288000,18280,Petrol,Automatic
+458,Hyundai Creta,Hyundai,2021,1845000,8589,Petrol,Automatic
+459,Volkswagen Tiguan 2.0,Volkswagen,2019,2575000,73081,Diesel,Automatic
+460,Hyundai Santro Xing,Hyundai,2007,80000,45000,Petrol,Manual
+461,Ford EcoSport Titanium,Ford,2014,575000,36000,Diesel,Manual
+462,Ford Figo,Ford,2012,175000,41000,Diesel,Manual
+463,Ford EcoSport Ambiente,Ford,2016,830000,24530,Diesel,Manual
+464,Skoda Fabia Classic,Skoda,2010,182000,60000,Petrol,Manual
+465,Hyundai Elite i20,Hyundai,2014,415000,32000,Petrol,Manual
+466,Hyundai Santro Xing,Hyundai,2007,80000,45000,Petrol,Manual
+467,Audi A8,Audi,2017,1000000,4000,Petrol,Manual
+468,Mahindra Scorpio S10,Mahindra,2016,350000,43000,Diesel,Manual
+469,Mahindra Scorpio S10,Mahindra,2016,350000,43000,Diesel,Manual
+470,Maruti Suzuki Alto,Maruti,2015,75000,39000,Petrol,Manual
+471,Hyundai i20 Sportz,Hyundai,2012,100000,55000,Petrol,Manual
+472,Maruti Suzuki Alto,Maruti,2017,190000,72000,Petrol,Manual
+473,Maruti Suzuki Alto,Maruti,2008,95000,70000,Petrol,Manual
+474,Maruti Suzuki Swift,Maruti,2014,385000,35522,Diesel,Manual
+475,Maruti Suzuki Swift,Maruti,2017,180000,15487,Petrol,Manual
+476,Maruti Suzuki Wagon,Maruti,2013,105000,39000,Petrol,Manual
+477,Renault Lodgy 85,Renault,2018,689999,20000,Diesel,Manual
+478,Maruti Suzuki Baleno,Maruti,2017,549000,32000,Diesel,Manual
+479,Renault Duster 85,Renault,2013,489999,27000,Diesel,Manual
+480,Maruti Suzuki Alto,Maruti,2015,250000,60000,Petrol,Manual
+481,Honda Amaze,Honda,2013,284999,46000,Diesel,Manual
+482,Honda City,Honda,2015,499999,55000,Petrol,Manual
+483,Maruti Suzuki SX4,Maruti,2010,249999,36000,Petrol,Manual
+484,Mahindra Bolero DI,Mahindra,2017,180000,23452,Diesel,Manual
+485,Mahindra Scorpio S10,Mahindra,2015,250000,48508,Diesel,Manual
+486,Maruti Suzuki Wagon,Maruti,2013,105000,39000,Petrol,Manual
+487,Mahindra Scorpio S10,Mahindra,2015,395000,35000,Diesel,Manual
+488,Honda City ZX,Honda,2017,170000,15000,Diesel,Manual
+489,Ford Figo,Ford,2012,175000,41000,Diesel,Manual
+490,Tata Indigo eCS,Tata,2017,200000,130000,Diesel,Manual
+491,Tata Indigo eCS,Tata,2017,200000,130000,Diesel,Manual
+492,Volkswagen Polo Highline,Volkswagen,2014,315000,60000,Petrol,Manual
+493,Maruti Suzuki Stingray,Maruti,2015,315000,30000,Petrol,Manual
+494,Chevrolet Spark LS,Chevrolet,2010,110000,41000,Petrol,Manual
+495,Honda City,Honda,2015,448999,54000,Petrol,Manual
+496,Datsun Redi GO,Datsun,2017,235000,16000,Petrol,Manual
+497,Honda Amaze,Honda,2015,344999,22000,Petrol,Manual
+498,Renault Duster,Renault,2014,449999,50000,Diesel,Manual
+499,Mahindra Scorpio S4,Mahindra,2015,865000,30000,Diesel,Manual
+500,Mahindra Quanto C8,Mahindra,2013,375000,20000,Diesel,Manual
+501,Honda Brio,Honda,2012,224999,30000,Petrol,Manual
+502,Volkswagen Vento Highline,Volkswagen,2019,1200000,3600,Diesel,Manual
+503,Toyota Corolla Altis,Toyota,2010,351000,38000,Diesel,Manual
+504,Toyota Corolla Altis,Toyota,2009,240000,35000,Petrol,Manual
+505,Hyundai Elite i20,Hyundai,2014,415000,32000,Petrol,Manual
+506,BMW 3 Series,BMW,2011,600000,60500,Petrol,Manual
+507,Toyota Etios GD,Toyota,2013,350000,60000,Diesel,Manual
+508,Maruti Suzuki Swift,Maruti,2014,390000,35000,Petrol,Manual
+509,BMW 7 Series,BMW,2009,1600000,35000,Petrol,Manual
+510,Hyundai i10 Magna,Hyundai,2014,265000,18000,Petrol,Manual
+511,Maruti Suzuki Swift,Maruti,2013,372000,13349,Petrol,Manual
+512,Ford EcoSport Titanium,Ford,2014,550000,44000,Diesel,Manual
+513,Maruti Suzuki Ertiga,Maruti,2013,485000,42000,Diesel,Manual
+514,Hyundai Grand i10,Hyundai,2014,345000,49000,Diesel,Manual
+515,Hyundai i20 Asta,Hyundai,2012,329500,36200,Diesel,Manual
+516,Maruti Suzuki Eeco,Maruti,2015,251111,55000,Petrol,Manual
+517,Maruti Suzuki Esteem,Maruti,2007,69999,51000,Petrol,Manual
+518,Maruti Suzuki Dzire,Maruti,2009,220000,46000,Petrol,Manual
+519,Maruti Suzuki Swift,Maruti,2013,372000,13349,Petrol,Manual
+520,Toyota Etios Liva,Toyota,2014,270000,55000,Petrol,Manual
+521,Chevrolet Spark,Chevrolet,2012,158400,33600,Petrol,Manual
+522,Nissan Micra XV,Nissan,2011,179000,41000,Petrol,Manual
+523,Maruti Suzuki Alto,Maruti,2018,200000,7500,Petrol,Manual
+524,Maruti Suzuki Alto,Maruti,2015,220000,38000,Petrol,Manual
+525,Ford EcoSport Trend,Ford,2016,830000,24330,Diesel,Manual
+526,Maruti Suzuki Swift,Maruti,2013,340000,41000,Petrol,Manual
+527,Toyota Corolla Altis,Toyota,2010,289999,70000,Petrol,Manual
+528,Toyota Innova 2.5,Toyota,2012,849999,99000,Diesel,Manual
+529,Volkswagen Polo Comfortline,Volkswagen,2015,399999,2800,Petrol,Manual
+530,Mahindra Scorpio,Mahindra,2015,984999,22000,Diesel,Manual
+531,Honda Amaze,Honda,2015,344999,22000,Petrol,Manual
+532,Hyundai Elite i20,Hyundai,2018,599999,21000,Petrol,Manual
+533,Renault Duster,Renault,2013,399999,41000,Diesel,Manual
+534,Renault Duster,Renault,2014,474999,50000,Diesel,Manual
+535,Maruti Suzuki Alto,Maruti,2018,310000,3000,Petrol,Manual
+536,Datsun Redi GO,Datsun,2016,245000,7000,Petrol,Manual
+537,Fiat Punto Emotion,Fiat,2012,169500,37200,Diesel,Manual
+538,Toyota Etios GD,Toyota,2013,275000,24800,Petrol,Manual
+539,Hyundai i10 Sportz,Hyundai,2010,168000,45872,Petrol,Manual
+540,Chevrolet Beat LS,Chevrolet,2011,145000,45000,Diesel,Manual
+541,Mahindra Scorpio VLX,Mahindra,2014,699000,50000,Diesel,Manual
+542,Toyota Corolla Altis,Toyota,2015,575000,42000,Petrol,Manual
+543,Maruti Suzuki Swift,Maruti,2011,209000,47000,Diesel,Manual
+544,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,Manual
+545,Honda Brio,Honda,2012,224999,30000,Petrol,Manual
+546,Honda Amaze,Honda,2013,284999,46000,Diesel,Manual
+547,Maruti Suzuki Wagon,Maruti,2012,199999,44000,Petrol,Manual
+548,Hyundai i20,Hyundai,2009,199000,31000,Petrol,Manual
+549,Hyundai Fluidic Verna,Hyundai,2015,540000,38000,Diesel,Manual
+550,Mahindra Quanto C8,Mahindra,2013,340000,37000,Diesel,Manual
+551,Skoda Fabia 1.2L,Skoda,2011,159500,38200,Diesel,Manual
+552,Hyundai Santro Xing,Hyundai,2005,49000,7500,Petrol,Manual
+553,Maruti Suzuki Zen,Maruti,2000,55000,60000,Petrol,Manual
+554,Hyundai Creta 1.6,Hyundai,2017,895000,32000,Petrol,Manual
+555,Mahindra Scorpio SLX,Mahindra,2007,355000,75000,Diesel,Manual
+556,Toyota Innova 2.5,Toyota,2006,365000,73000,Diesel,Manual
+557,Maruti Suzuki Wagon,Maruti,2011,210000,35000,Petrol,Manual
+558,Maruti Suzuki Alto,Maruti,2013,125000,39000,Petrol,Manual
+559,Maruti Suzuki Swift,Maruti,2006,135000,45000,Petrol,Manual
+560,Maruti Suzuki Alto,Maruti,2010,135000,34580,Petrol,Manual
+561,Renault Scala RxL,Renault,2015,375000,25000,Diesel,Manual
+562,Hyundai Grand i10,Hyundai,2014,365000,20000,Petrol,Manual
+563,Mahindra Xylo E4,Mahindra,2012,400000,35000,Diesel,Manual
+564,Renault Duster 110PS,Renault,2012,501000,35000,Diesel,Manual
+565,Force Motors Force,Force,2015,580000,3200,Diesel,Manual
+566,Mahindra Jeep CL550,Mahindra,2019,379000,0,Diesel,Manual
+567,Mahindra Jeep CL550,Mahindra,2018,385000,588,Diesel,Manual
+568,Volkswagen Polo,Volkswagen,2015,330000,38000,Diesel,Manual
+569,Maruti Suzuki Wagon,Maruti,2006,80000,71200,Petrol,Manual
+570,Mahindra Thar CRDe,Mahindra,2016,730000,29000,Diesel,Manual
+571,Audi A4 1.8,Audi,2009,699000,47000,Petrol,Manual
+572,Land Rover Freelander,Land,2015,2100000,30000,Diesel,Manual
+573,Tata Aria Pleasure,Tata,2014,390000,35000,Diesel,Manual
+574,Datsun GO T,Datsun,2016,245000,7000,Petrol,Manual
+575,Tata Indigo eCS,Tata,2016,320000,175400,Diesel,Manual
+576,Honda Amaze 1.2,Honda,2014,311000,33000,Petrol,Manual
+577,Honda City,Honda,2012,399999,45000,Petrol,Manual
+578,Honda Amaze,Honda,2015,344999,22000,Petrol,Manual
+579,Force Motors Force,Force,2015,580000,3200,Diesel,Manual
+580,Hyundai i20 Active,Hyundai,2015,535000,37000,Diesel,Manual
+581,Maruti Suzuki Ciaz,Maruti,2017,699000,14000,Petrol,Manual
+582,Honda Amaze,Honda,2013,284999,46000,Diesel,Manual
+583,Tata Sumo Gold,Tata,2013,300000,50000,Diesel,Manual
+584,Maruti Suzuki Esteem,Maruti,2006,95000,45000,Petrol,Manual
+585,Chevrolet Enjoy 1.4,Chevrolet,2013,245000,55000,Diesel,Manual
+586,Ford Figo Diesel,Ford,2014,195000,50000,Diesel,Manual
+587,Maruti Suzuki Ertiga,Maruti,2014,569999,45000,Petrol,Manual
+588,Maruti Suzuki Ritz,Maruti,2014,299999,19000,Petrol,Manual
+589,Maruti Suzuki Ritz,Maruti,2013,399999,33000,Diesel,Manual
+590,Maruti Suzuki Wagon,Maruti,2015,289999,22000,Petrol,Manual
+591,Nissan Terrano XL,Nissan,2015,499999,60000,Diesel,Manual
+592,Renault Duster 85,Renault,2014,489999,59000,Diesel,Manual
+593,Maruti Suzuki Dzire,Maruti,2013,380000,30000,Petrol,Manual
+594,Maruti Suzuki Maruti,Maruti,2003,57000,56758,Petrol,Manual
+595,Renault Lodgy 85,Renault,2018,689999,20000,Diesel,Manual
+596,Hyundai Grand i10,Hyundai,2014,410000,41000,Petrol,Manual
+597,Chevrolet Beat LS,Chevrolet,2010,120000,43000,Petrol,Manual
+598,Hyundai Santro Xing,Hyundai,2000,59000,56450,Petrol,Manual
+599,Mahindra Quanto C8,Mahindra,2013,340000,37000,Diesel,Manual
+600,Chevrolet Beat LS,Chevrolet,2015,220000,32700,Petrol,Manual
+601,Ford EcoSport Titanium,Ford,2016,599000,30000,Diesel,Manual
+602,Mahindra TUV300 T4,Mahindra,2016,675000,9000,Diesel,Manual
+603,Mini Cooper S,Mini,2013,1891111,13000,Petrol,Manual
+604,Mini Cooper S,Mini,2013,1891111,13000,Petrol,Manual
+605,Maruti Suzuki Swift,Maruti,2019,610000,73,Petrol,Manual
+606,Mahindra Scorpio S4,Mahindra,2015,855000,30000,Diesel,Manual
+607,Ford EcoSport Titanium,Ford,2014,520000,57000,Diesel,Manual
+608,Honda Amaze,Honda,2014,299999,37000,Petrol,Manual
+609,Honda City,Honda,2011,284999,55000,Petrol,Manual
+610,Maruti Suzuki Dzire,Maruti,2014,424999,55000,Diesel,Manual
+611,Honda Mobilio,Honda,2014,399999,44000,Petrol,Manual
+612,Honda City,Honda,2014,584999,39000,Petrol,Manual
+613,Renault Duster,Renault,2015,449999,49000,Diesel,Manual
+614,Maruti Suzuki Dzire,Maruti,2015,444999,45000,Diesel,Manual
+615,Hyundai Verna Fluidic,Hyundai,2012,444999,40000,Diesel,Manual
+616,Maruti Suzuki Wagon,Maruti,2016,344999,15000,Petrol,Manual
+617,Honda Amaze,Honda,2014,274999,35000,Petrol,Manual
+618,Mahindra Scorpio,Mahindra,2013,574999,68000,Diesel,Manual
+619,Volkswagen Polo,Volkswagen,2010,199999,60000,Diesel,Manual
+620,Tata Manza Aura,Tata,2012,130000,72000,Diesel,Manual
+621,Renault Duster 110,Renault,2012,501000,38000,Diesel,Manual
+622,Audi A4 2.0,Audi,2012,1350000,40000,Diesel,Manual
+623,Mahindra Scorpio VLX,Mahindra,2013,610000,35000,Diesel,Manual
+624,Renault Scala RxL,Renault,2015,375000,25000,Diesel,Manual
+625,Hyundai Grand i10,Hyundai,2014,365000,20000,Petrol,Manual
+626,Mahindra Xylo E4,Mahindra,2012,400000,35000,Diesel,Manual
+627,Hyundai i20,Hyundai,2014,449999,23000,Petrol,Manual
+628,Hyundai i10,Hyundai,2012,244999,38000,Petrol,Manual
+629,Datsun Redi GO,Datsun,2017,244999,22000,Petrol,Manual
+630,Hyundai Accent,Hyundai,2010,99999,45000,Petrol,Manual
+631,Maruti Suzuki Swift,Maruti,2013,324999,45000,Diesel,Manual
+632,Hyundai i10 Sportz,Hyundai,2012,230000,34000,Petrol,Manual
+633,Honda City 1.5,Honda,2010,240000,400000,Petrol,Manual
+634,Mahindra Jeep MM,Mahindra,2019,390000,60,Diesel,Manual
+635,Mahindra XUV500,Mahindra,2016,1130000,72000,Diesel,Manual
+636,Force Motors Force,Force,2015,580000,3200,Diesel,Manual
+637,Tata Vista Quadrajet,Tata,2011,120000,90000,Diesel,Manual
+638,Maruti Suzuki SX4,Maruti,2012,265000,46000,Diesel,Manual
+639,Mahindra Jeep CL550,Mahindra,2019,379000,0,Diesel,Manual
+640,Maruti Suzuki Alto,Maruti,2015,219000,5000,Petrol,Manual
+641,Honda City ZX,Honda,2008,149000,42000,Petrol,Manual
+642,Mahindra Jeep MM,Mahindra,2006,425000,122,Diesel,Manual
+643,Honda City 1.5,Honda,2010,225000,70000,Petrol,Manual
+644,Hyundai Verna 1.4,Hyundai,2014,375000,36000,Petrol,Manual
+645,Toyota Etios,Toyota,2011,275000,36000,Diesel,Manual
+646,Maruti Suzuki Swift,Maruti,2014,335000,55000,Diesel,Manual
+647,Maruti Suzuki Swift,Maruti,2012,225000,40000,Petrol,Manual
+648,Maruti Suzuki Versa,Maruti,2004,80000,50000,Petrol,Manual
+649,Volkswagen Vento Konekt,Volkswagen,2011,245000,65000,Diesel,Manual
+650,Maruti Suzuki Ertiga,Maruti,2013,450000,90000,Diesel,Manual
+651,Honda City,Honda,2000,65000,80000,Petrol,Manual
+652,Maruti Suzuki Omni,Maruti,2001,70000,70000,Petrol,Manual
+653,Hyundai Elite i20,Hyundai,2018,600000,7800,Petrol,Manual
+654,Maruti Suzuki Alto,Maruti,2017,240000,60000,Petrol,Manual
+655,Honda Jazz S,Honda,2009,169999,24695,Petrol,Manual
+656,Maruti Suzuki Zen,Maruti,2001,40000,40000,Petrol,Manual
+657,Hyundai Grand i10,Hyundai,2016,280000,59910,Diesel,Manual
+658,Hyundai Creta 1.6,Hyundai,2016,950000,25000,Petrol,Manual
+659,Renault Duster 85,Renault,2015,715000,65000,Diesel,Manual
+660,Honda Brio V,Honda,2012,235000,33000,Petrol,Manual
+661,Chevrolet Spark LS,Chevrolet,2010,95000,23000,Petrol,Manual
+662,Maruti Suzuki Swift,Maruti,2015,220000,129000,Diesel,Manual
+663,Maruti Suzuki Alto,Maruti,2015,230000,5000,Petrol,Manual
+664,Toyota Fortuner 3.0,Toyota,2010,940000,131000,Diesel,Manual
+665,Mercedes Benz A,Mercedes,2013,1500000,14000,Petrol,Manual
+666,Ford EcoSport Trend,Ford,2013,495000,38000,Diesel,Manual
+667,Hyundai i20 Magna,Hyundai,2010,195000,36000,Petrol,Manual
+668,Renault Kwid RXT,Renault,2015,270000,43000,Petrol,Manual
+669,Ford EcoSport Titanium,Ford,2014,500000,40000,Diesel,Manual
+670,Hyundai Verna 1.6,Hyundai,2017,800000,12000,Petrol,Manual
+671,Skoda Superb 1.8,Skoda,2011,530000,68000,Petrol,Manual
+672,Mahindra Bolero DI,Mahindra,2012,220000,59466,Diesel,Manual
+673,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,Manual
+674,Maruti Suzuki Wagon,Maruti,2018,395000,25500,Petrol,Manual
+675,Tata Nano GenX,Tata,2010,32000,44005,Petrol,Manual
+676,Mahindra TUV300 T4,Mahindra,2016,540000,35000,Diesel,Manual
+677,Hyundai Elite i20,Hyundai,2015,400000,30000,Petrol,Manual
+678,Maruti Suzuki Baleno,Maruti,2016,500000,28000,Petrol,Manual
+679,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,Manual
+680,Hyundai Elite i20,Hyundai,2015,419000,20000,Petrol,Manual
+681,Hyundai Eon Era,Hyundai,2018,140000,2110,Petrol,Manual
+682,Hyundai i10 Magna,Hyundai,2008,275000,100200,Petrol,Manual
+683,Maruti Suzuki Swift,Maruti,2011,230000,65,Petrol,Manual
+684,Mahindra Scorpio S10,Mahindra,2015,900000,97200,Diesel,Manual
+685,Hyundai Xcent Base,Hyundai,2016,300000,140000,Diesel,Manual
+686,Hyundai Accent Executive,Hyundai,2009,165000,48000,Petrol,Manual
+687,Tata Zest XE,Tata,2018,480000,103553,Diesel,Manual
+688,Tata Sumo Gold,Tata,2014,250000,99000,Diesel,Manual
+689,Maruti Suzuki Eeco,Maruti,2013,290000,70000,LPG,Manual
+690,Mahindra XUV500 W6,Mahindra,2013,548900,49800,Diesel,Manual
+691,Maruti Suzuki 800,Maruti,2001,55000,81876,Petrol,Manual
+692,Maruti Suzuki Versa,Maruti,2004,90000,50000,Petrol,Manual
+693,Maruti Suzuki Ertiga,Maruti,2016,730000,55000,Diesel,Manual
+694,Hyundai Verna 1.6,Hyundai,2016,195000,56000,Diesel,Manual
+695,Toyota Fortuner 3.0,Toyota,2015,1525000,120000,Diesel,Manual
+696,Honda Amaze,Honda,2013,250000,55700,Diesel,Manual
+697,Hyundai Santro Xing,Hyundai,2003,120000,50000,Petrol,Manual
+698,Maruti Suzuki Wagon,Maruti,2014,250000,18500,Petrol,Manual
+699,Honda Brio VX,Honda,2017,450000,11000,Petrol,Manual
+700,Maruti Suzuki Zen,Maruti,2003,99999,53000,Petrol,Manual
+701,Maruti Suzuki Wagon,Maruti,2016,225000,35500,Diesel,Manual
+702,Renault Kwid RXT,Renault,2019,370000,1000,Petrol,Manual
+703,Jaguar XE XE,Jaguar,2016,2800000,8500,Petrol,Manual
+704,Hyundai Eon Magna,Hyundai,2014,190000,35000,Petrol,Manual
+705,Hindustan Motors Ambassador,Hindustan,2002,90000,25000,Diesel,Manual
+706,Hyundai Grand i10,Hyundai,2017,400000,20000,Petrol,Manual
+707,Maruti Suzuki Swift,Maruti,2015,250000,55000,Petrol,Manual
+708,Honda Amaze 1.2,Honda,2014,381000,6000,Petrol,Manual
+709,Maruti Suzuki Vitara,Maruti,2016,580000,25000,Diesel,Manual
+710,Mahindra Scorpio Vlx,Mahindra,2013,690000,75000,Diesel,Manual
+711,Mitsubishi Lancer 1.8,Mitsubishi,2006,85000,50000,Petrol,Manual
+712,Maruti Suzuki Alto,Maruti,2015,90000,55800,Petrol,Manual
+713,Hyundai Eon D,Hyundai,2018,260000,25000,Petrol,Manual
+714,Maruti Suzuki Ritz,Maruti,2010,180000,72160,Diesel,Manual
+715,Maruti Suzuki Wagon,Maruti,2006,90001,48000,Petrol,Manual
+716,Audi A6 2.0,Audi,2012,1599000,11500,Diesel,Manual
+717,Maruti Suzuki Wagon,Maruti,2009,159000,27000,Petrol,Manual
+718,Maruti Suzuki Alto,Maruti,2010,110000,55000,Petrol,Manual
+719,Hyundai Verna 1.6,Hyundai,2019,900000,2000,Petrol,Manual
+720,Hyundai Getz Prime,Hyundai,2009,110000,20000,Petrol,Manual
+721,Hyundai Getz Prime,Hyundai,2009,115000,20000,Petrol,Manual
+722,Ford EcoSport Trend,Ford,2017,580000,10000,Petrol,Manual
+723,Hyundai Fluidic Verna,Hyundai,2013,350000,117000,Diesel,Manual
+724,BMW X1 xDrive20d,BMW,2011,1150000,72000,Diesel,Manual
+725,Honda City 1.5,Honda,2009,269000,55000,Petrol,Manual
+726,Chevrolet Cruze LTZ,Chevrolet,2014,400000,41000,Diesel,Manual
+727,Mahindra XUV500 W6,Mahindra,2014,8500003,45000,Diesel,Manual
+728,Maruti Suzuki Alto,Maruti,2014,199000,37000,Petrol,Manual
+729,Force Motors One,Force,2013,550000,140000,Diesel,Manual
+730,Maruti Suzuki Alto,Maruti,2019,265000,9800,Petrol,Manual
+731,Hyundai i10,Hyundai,2009,215000,27000,Petrol,Manual
+732,Renault Duster 85PS,Renault,2013,401919,57923,Diesel,Manual
+733,Maruti Suzuki Alto,Maruti,2017,280000,6200,Petrol,Manual
+734,Toyota Etios Liva,Toyota,2014,160000,24652,Petrol,Manual
+735,Chevrolet Beat LS,Chevrolet,2016,225000,95000,Diesel,Manual
+736,Jeep Wrangler Unlimited,Jeep,2015,950000,3528,Diesel,Manual
+737,Hyundai Verna VGT,Hyundai,2010,205000,47900,Diesel,Manual
+738,Maruti Suzuki Celerio,Maruti,2018,310000,37000,Petrol,Manual
+739,Mahindra XUV500 W6,Mahindra,2013,549900,52800,Diesel,Manual
+740,Hyundai i10 Era,Hyundai,2011,175000,30000,Petrol,Manual
+741,Tata Indigo LX,Tata,2016,230000,104000,Diesel,Manual
+742,Tata Indigo Marina,Tata,2004,180000,70000,Diesel,Manual
+743,Hyundai Xcent SX,Hyundai,2015,400000,43000,Diesel,Manual
+744,Renault Duster 85,Renault,2015,385000,51000,Diesel,Manual
+745,Tata Nano LX,Tata,2010,32000,48008,Petrol,Manual
+746,Renault Duster 110,Renault,2013,435000,39000,Diesel,Manual
+747,Maruti Suzuki Swift,Maruti,2006,189700,48247,Petrol,Manual
+748,Maruti Suzuki Swift,Maruti,2014,365000,23000,Petrol,Manual
+749,Hyundai i20 Magna,Hyundai,2010,210000,50000,Petrol,Manual
+750,Mahindra Xylo E8,Mahindra,2009,295000,64000,Diesel,Manual
+751,Tata Manza Aqua,Tata,2014,160000,200000,Diesel,Manual
+752,Maruti Suzuki Swift,Maruti,2014,315000,44000,Petrol,Manual
+753,Skoda Octavia Classic,Skoda,2006,114990,65000,Diesel,Manual
+754,Chevrolet Beat Diesel,Chevrolet,2011,125000,56000,Diesel,Manual
+755,Tata Sumo Gold,Tata,2012,210000,75000,Diesel,Manual
+756,Maruti Suzuki Zen,Maruti,2002,95000,10544,Petrol,Manual
+757,Mahindra Scorpio SLX,Mahindra,2008,300000,70000,Diesel,Manual
+758,Hyundai Elite i20,Hyundai,2017,550000,15000,Petrol,Manual
+759,Toyota Innova 2.5,Toyota,2011,750000,147000,Diesel,Manual
+760,Chevrolet Beat LT,Chevrolet,2012,130000,90001,Diesel,Manual
+761,Maruti Suzuki Swift,Maruti,2012,280000,48006,Diesel,Manual
+762,Maruti Suzuki Swift,Maruti,2012,280000,48006,Diesel,Manual
+763,Toyota Innova 2.0,Toyota,2012,600000,80000,Diesel,Manual
+764,Maruti Suzuki Swift,Maruti,2010,190000,74000,Diesel,Manual
+765,Mahindra XUV500 W10,Mahindra,2016,1065000,41000,Diesel,Manual
+766,Toyota Etios Liva,Toyota,2012,350000,85000,Diesel,Manual
+767,Hyundai Elite i20,Hyundai,2015,470000,30000,Petrol,Manual
+768,Maruti Suzuki Zen,Maruti,2003,48000,60000,Petrol,Manual
+769,Hyundai Eon Era,Hyundai,2013,190000,39700,Petrol,Manual
+770,Maruti Suzuki Swift,Maruti,2010,270000,67000,Diesel,Manual
+771,Hyundai Eon Era,Hyundai,2012,188000,38000,Petrol,Manual
+772,Hyundai Verna Fluidic,Hyundai,2011,365000,43000,Diesel,Manual
+773,Hyundai i20 Magna,Hyundai,2011,240000,42000,Petrol,Manual
+774,Tata Indica eV2,Tata,2015,140000,60105,Diesel,Manual
+775,Audi Q5 2.0,Audi,2014,2390000,34000,Diesel,Manual
+776,Maruti Suzuki Swift,Maruti,2015,475000,22000,Petrol,Manual
+777,Maruti Suzuki S,Maruti,2016,615000,21000,Diesel,Manual
+778,Maruti Suzuki Alto,Maruti,2016,270000,38000,Petrol,Manual
+779,Volkswagen Vento Comfortline,Volkswagen,2011,240000,45933,Petrol,Manual
+780,Audi A4 2.0,Audi,2016,1900000,44000,Diesel,Manual
+781,Tata Zest XE,Tata,2018,450000,102563,Diesel,Manual
+782,Maruti Suzuki Swift,Maruti,2017,650000,41800,Diesel,Manual
+783,Maruti Suzuki Swift,Maruti,2009,210000,59000,Petrol,Manual
+784,Maruti Suzuki Omni,Maruti,2009,85000,45000,Petrol,Manual
+785,Renault Duster,Renault,2014,800000,7400,Diesel,Manual
+786,Maruti Suzuki Ertiga,Maruti,2012,1000000,200000,Diesel,Manual
+787,Volvo S80 Summum,Volvo,2015,1850000,42000,Diesel,Manual
+788,Mitsubishi Pajero Sport,Mitsubishi,2015,1725000,37000,Diesel,Manual
+789,BMW X1,BMW,2011,1000000,34000,Diesel,Manual
+790,Mercedes Benz C,Mercedes,2009,1225000,76000,Diesel,Manual
+791,Volkswagen Vento Comfortline,Volkswagen,2011,200000,95000,Diesel,Manual
+792,Ford Figo Petrol,Ford,2019,525000,0,Petrol,Manual
+793,Maruti Suzuki Wagon,Maruti,2008,140000,68000,Petrol,Manual
+794,Maruti Suzuki Swift,Maruti,2016,499000,51000,Diesel,Manual
+795,Maruti Suzuki Zen,Maruti,2004,70000,100000,Petrol,Manual
+796,Maruti Suzuki Swift,Maruti,2014,370000,11523,Petrol,Manual
+797,Honda WR V,Honda,2009,250000,60000,Petrol,Manual
+798,Renault Duster 110,Renault,2013,490000,38600,Diesel,Manual
+799,Maruti Suzuki Zen,Maruti,2004,68000,56000,Petrol,Manual
+800,Maruti Suzuki SX4,Maruti,2016,970000,85960,Diesel,Manual
+801,Hyundai Eon D,Hyundai,2018,280000,35000,Petrol,Manual
+802,Mahindra Scorpio SLX,Mahindra,2008,285000,80000,Diesel,Manual
+803,Hyundai Santro AE,Hyundai,2011,165000,45000,Petrol,Manual
+804,Maruti Suzuki Swift,Maruti,2009,250000,51000,Diesel,Manual
+805,Hyundai Santro,Hyundai,2003,60000,51000,Petrol,Manual
+806,Maruti Suzuki Swift,Maruti,2015,475000,43000,Diesel,Manual
+807,Toyota Fortuner 3.0,Toyota,2013,1499000,97000,Diesel,Manual
+808,Hyundai Getz GLE,Hyundai,2007,99000,55000,Petrol,Manual
+809,Hyundai Creta 1.6,Hyundai,2019,1200000,0,Petrol,Manual
+810,Hyundai Santro Xing,Hyundai,2009,88000,43200,Petrol,Manual
+811,Hyundai Santro Xing,Hyundai,2007,135000,42000,Petrol,Manual
+812,Hyundai i10 Sportz,Hyundai,2011,220000,38000,Petrol,Manual
+813,Hyundai Santro Xing,Hyundai,2007,135000,47000,Petrol,Manual
+814,Nissan Micra XL,Nissan,2017,430000,62500,Diesel,Manual
+815,Maruti Suzuki Alto,Maruti,2015,215000,50000,Petrol,Manual
+816,Maruti Suzuki Ertiga,Maruti,2012,500000,48000,Diesel,Manual
+817,Maruti Suzuki Omni,Maruti,2013,165000,25000,Petrol,Manual
+818,Hyundai Eon,Hyundai,2014,200000,28000,Petrol,Manual
+819,Chevrolet Tavera LS,Chevrolet,2005,130000,68485,Diesel,Manual
+820,Tata Tiago Revotorq,Tata,2019,568500,0,Petrol,Manual
+821,Mahindra KUV100 K8,Mahindra,2018,560000,8000,Diesel,Manual
+822,Hindustan Motors Ambassador,Hindustan,1995,750000,37000,Petrol,Manual
+823,Hyundai Santro Xing,Hyundai,2007,135000,46000,Petrol,Manual
+824,Fiat Linea Emotion,Fiat,2009,120000,64000,Petrol,Manual
+825,Maruti Suzuki Omni,Maruti,2017,240000,8000,Petrol,Manual
+826,Mahindra Scorpio S4,Mahindra,2015,795000,63000,Diesel,Manual
+827,Mahindra Xylo D2,Mahindra,2009,300000,62000,Diesel,Manual
+828,Maruti Suzuki Alto,Maruti,2015,265000,14000,Petrol,Manual
+829,Hyundai Eon Magna,Hyundai,2017,300000,1600,Petrol,Manual
+830,Maruti Suzuki Swift,Maruti,2011,250000,58000,Diesel,Manual
+831,Maruti Suzuki Alto,Maruti,2003,42000,60000,Petrol,Manual
+832,Maruti Suzuki Swift,Maruti,2009,120000,90000,Diesel,Manual
+833,Tata Indigo eCS,Tata,2016,130000,150000,Diesel,Manual
+834,Hyundai Eon D,Hyundai,2013,170000,20000,Petrol,Manual
+835,Tata Sumo Gold,Tata,2013,215000,100000,Petrol,Manual
+836,Hyundai Elite i20,Hyundai,2017,599999,31000,Petrol,Manual
+837,Hyundai Creta,Hyundai,2016,900000,60000,Diesel,Manual
+838,Maruti Suzuki Dzire,Maruti,2014,374999,33000,Petrol,Manual
+839,Maruti Suzuki Alto,Maruti,2005,70000,47000,Petrol,Manual
+840,Maruti Suzuki Alto,Maruti,2017,225000,12500,Petrol,Manual
+841,Maruti Suzuki Swift,Maruti,2008,162000,60000,Diesel,Manual
+842,Mahindra Scorpio VLX,Mahindra,2014,650000,77000,Diesel,Manual
+843,Mahindra Xylo E8,Mahindra,2010,375000,40000,Diesel,Manual
+844,Maruti Suzuki Omni,Maruti,2000,35999,60000,Petrol,Manual
+845,Mahindra KUV100 K8,Mahindra,2019,560000,2875,Petrol,Manual
+846,Ford Endeavor 4x4,Ford,2019,2900000,9000,Diesel,Manual
+847,Hyundai Santro Xing,Hyundai,2006,85000,60000,Petrol,Manual
+848,Maruti Suzuki Swift,Maruti,2008,175000,58000,Diesel,Manual
+849,Toyota Innova 2.5,Toyota,2011,750000,75000,Diesel,Manual
+850,Maruti Suzuki Alto,Maruti,2016,250000,2450,Petrol,Manual
+851,Mahindra Logan,Mahindra,2009,130000,65000,Diesel,Manual
+852,Mahindra Scorpio,Mahindra,2011,475000,60123,Diesel,Manual
+853,Maruti Suzuki Wagon,Maruti,2006,100000,7000,Petrol,Manual
+854,Tata Manza,Tata,2015,100000,100000,Diesel,Manual
+855,Toyota Etios G,Toyota,2013,265000,42000,Petrol,Manual
+856,Toyota Qualis,Toyota,2003,180000,100000,Diesel,Manual
+857,Tata Indica eV2,Tata,2016,50500,91200,Diesel,Manual
+858,Tata Zest XE,Tata,2017,290000,120000,Diesel,Manual
+859,Tata Indigo eCS,Tata,2016,160000,104000,Diesel,Manual
+860,Hyundai Elite i20,Hyundai,2011,290000,40000,Petrol,Manual
+861,Chevrolet Tavera Neo,Chevrolet,2007,465000,100800,Diesel,Manual
+862,Hyundai Elite i20,Hyundai,2018,510000,2100,Petrol,Manual
+863,Maruti Suzuki Dzire,Maruti,2016,450000,2500,Diesel,Manual
+864,Mercedes Benz C,Mercedes,2006,500001,15000,Petrol,Manual
+865,Maruti Suzuki Swift,Maruti,2009,250000,51000,Diesel,Manual
+866,Toyota Corolla Altis,Toyota,2009,300000,132000,Petrol,Manual
+867,Tata Zest XM,Tata,2018,260000,27000,Diesel,Manual
+868,Hyundai New Santro,Hyundai ,2021,553000,3098,Petrol,Manual
+869,Maruti Dzire ZXI,Maruti,2021,795000,2274,Petrol,Manual
+870,Maruti New Wagon-R,Maruti,2021,584000,24191,CNG,Manual
+871,Skoda Rapid,Skoda,2020,822000,47239,Petrol,Manual
+872,Hyundai AURA,Hyundai ,2020,757000,37554,CNG,Manual
+873,Tata ALTROZ XZ,Tata,2020,730000,27970,Petrol,Manual
+874,Maruti Ciaz,Maruti,2019,775000,39980,Petrol,Manual
+875,Ford Ecosports,Ford,2019,984000,41273,Diesel,Manual
+876,Mahindra XUV 3OO,Mahindra,2021,1169000,7239,Petrol,Manual
+877,SKODA SLAVIA,Skoda,2022,1367000,3530,Petrol,Manual
+878,KIA SELTOS,Kia,2019,1193000,20838,Petrol,Manual
+879,Hyundai New Elantra,Hyundai ,2021,1579000,9088,Petrol,Manual
+880,Skoda KUSHAQ,Skoda,2021,1575000,10098,Petrol,Manual
+881,Renault TRIBER,Renault,2019,682000,16157,Petrol,Manual
+882,Mahindra MARAZZO,Mahindra,2020,1200000,22707,Diesel,Manual
+883,Toyota Glanza,Toyota,2019,764000,25239,Petrol,Manual
+884,MG HECTOR PLUS,MG,2021,1817000,25192,Diesel,Manual
+885,Honda WR-V,Honda,2019,790000,30502,Petrol,Manual
+886,Ford FREESTYLE TITANIUM,Ford,2019,610000,39486,Petrol,Manual
+887,Mahindra BOLERO NEO,Mahindra,2022,1137000,7235,Diesel,Manual
+888,Ford New Figo,Ford,2019,596000,37736,Petrol,Manual
+889,Maruti Baleno,Maruti,2019,764000,17274,Petrol,Manual
+890,Tata Harrier,Tata,2019,1483000,42666,Diesel,Manual
+891,Volkswagen TAIGUN,Volkswagen,2021,1436000,8122,Petrol,Manual
+892,Toyota YARIS,Toyota,2021,1163000,20699,Petrol,Manual
+893,Maruti S PRESSO,Maruti,2021,540000,25068,CNG,Manual
+894,Renault Duster,Renault,2020,1063000,20704,Petrol,Manual
+895,Honda Amaze,Honda,2019,601000,22176,Petrol,Manual
+896,Hyundai Xcent,Hyundai ,2019,579000,42846,CNG,Manual
+897,Volkswagen Polo,Volkswagen,2019,737000,85697,Diesel,Manual
+898,Tata PUNCH,Tata,2021,799000,23183,Petrol,Manual
+899,Maruti Celerio,Maruti,2019,487000,6452,Petrol,Manual
+900,Toyota Etios Liva,Toyota,2019,533000,19659,Petrol,Manual
+901,Mahindra XUV500,Mahindra,2019,1055000,36170,Diesel,Manual
+902,Mahindra Scorpio S9,Mahindra,2020,1525000,36000,Diesel,Manual
+903,Mahindra KUV 100,Mahindra,2020,706000,14966,Petrol,Manual
+904,Volkswagen Ameo,Volkswagen,2019,666000,15000,Petrol,Manual
+905,Maruti Wagon R,Maruti,2021,643000,12746,CNG,Manual
+906,Ford Ecosport,Ford,2020,920000,20000,Diesel,Manual
+907,Hyundai Venue,Hyundai,2020,875000,28000,Petrol,Manual
+908,Hyundai Aura,Hyundai,2020,757000,68000,CNG,Manual
+909,Renault Triber,Renault,2021,750000,30000,Petrol,Manual
+910,Maruti Ignis,Maruti,2019,650000,14000,Petrol,Manual
+911,Kia Sonet,Kia,2021,1198000,14469,Diesel,Manual
+912,Maruti Celerio,Maruti,2022,719000,6872,CNG,Manual
+913,Hyundai Xcent,Hyundai,2022,700000,50000,CNG,Manual
+914,Maruti Alto 800,Maruti,2021,480000,21556,CNG,Manual
+915,Tata Tiago,Tata,2022,837000,9354,CNG,Manual
